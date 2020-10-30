@@ -8,3 +8,4 @@ echo -n "Enter directory name ->"
 read newdir
 cmd="mkdir $newdir"
 eval $cmd
+#Dir Existence check
